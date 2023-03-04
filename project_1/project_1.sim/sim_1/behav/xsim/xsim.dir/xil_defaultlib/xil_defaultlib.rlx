@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/Semester 5/Processor/CODES/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sim_1/imports/CODES/Datapth_TB.v,1656866236,verilog,,,,Datapth_TB,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/AC.v,1656274336,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/ALU.v,,AC,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/ALU.v,1656317708,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/ALU_MUX.v,,ALU,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/ALU_MUX.v,1656341871,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Bus.v,,ALU_MUX,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Bus.v,1656841584,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Controller.v,,Bus,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Controller.v,1656771428,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/DRAM.v,,Controller,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/DRAM.v,1656866808,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Datapath.v,,DRAM,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Datapath.v,1656788562,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Decoder.v,,Datapath,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/Decoder.v,1656515621,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/GPR1.v,,Decoder,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/GPR1.v,1656150429,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/GPR2.v,,GPR1,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/GPR2.v,1656531211,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/IR.v,,GPR2,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/IR.v,1656527493,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/IRAM.v,,IR,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/IRAM.v,1656797504,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MAR.v,,IRAM,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MAR.v,1656177450,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MDR.v,,MAR,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MDR.v,1656601644,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MUX.v,,MDR,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/MUX.v,1656330370,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/PC.v,,MUX,,,,,,,,
+D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sources_1/imports/CODES/PC.v,1656763239,verilog,,D:/Semester 5/Processor/CODES/project_1/project_1.srcs/sim_1/imports/CODES/Datapth_TB.v,,PC,,,,,,,,

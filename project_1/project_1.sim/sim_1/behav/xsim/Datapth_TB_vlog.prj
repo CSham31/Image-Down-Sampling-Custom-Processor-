@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/CODES/AC.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/ALU.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/ALU_MUX.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/Bus.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/Controller.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/DRAM.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/Datapath.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/Decoder.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/GPR1.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/GPR2.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/IR.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/IRAM.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/MAR.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/MDR.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/MUX.v" \
+"../../../../project_1.srcs/sources_1/imports/CODES/PC.v" \
+"../../../../project_1.srcs/sim_1/imports/CODES/Datapth_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
